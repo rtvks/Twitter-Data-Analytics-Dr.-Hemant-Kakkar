@@ -24,15 +24,6 @@ Here are the general steps involved in conducting social media analysis:
 •	Calculate relevant statistical measures such as frequency counts, averages, or correlations.
 •	Visualize the data using graphs, charts, or interactive dashboards to present your findings effectively.
 
-5.	Statistical Modelling:
-•	Apply statistical modelling techniques, such as regression or clustering, to uncover relationships or groupings within the data.
-•	Test hypotheses or build predictive models based on your research objectives.
-
-6.	Research Paper:
-•	Summarize your methodology, findings, and insights in a research paper format.
-•	Include relevant references and related work to provide context to your study.
-•	Clearly explain the practical applications of social media analytics in the field of social psychology and evolutionary theories.
-
 Python: Python is a widely used programming language for data analysis and offers various libraries and frameworks for social media analysis. Some key libraries include:
 
 •	Tweepy: A Python library for accessing the Twitter API.
