@@ -1,3 +1,5 @@
+Twitter-Data-Analytics-Dr.-Hemant-Kakkar
+
 Assignment: The aim of my mini assignment was to scrap out data from twitter. The data consisted of tweets corresponding to the user’s name and the no. of tweets required for the analysis. Read Dr. Kakkar’s research papers  to manipulate the scrapped out twitter data. Manually coded that data into different categories and then analysed th personality with the help of graphs and other tools
 
 Here are the general steps involved in conducting social media analysis:
